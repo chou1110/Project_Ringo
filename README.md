@@ -30,7 +30,7 @@ To set up and run the project locally, follow these steps:
 
 ```bash
 git clone https://github.com/chou1110/Project_Ringo.git
-cd /Project_Ringo
+cd Project_Ringo
 ```
 
 ### 2️⃣ Install Dependencies
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Streamlit App
 
 ```bash
-streamlit run app.py
+streamlit run app/dashboard.py
 ```
 
 ### 4️⃣ Open in Browser
