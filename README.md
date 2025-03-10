@@ -21,7 +21,6 @@ This project provides a **Streamlit-based template** for evaluating strategies t
   - Compares the **planned strategy vs. real execution** to assess strategy performance.
   - Includes **key performance indicators (KPIs)** such as the rate describing how closely the strategy aligns with real actions.
   - Additionally, it provides recommended actions based on the comparison to improve strategic alignment and execution efficiency.
-  -
 
 ## Installation
 
@@ -30,8 +29,8 @@ To set up and run the project locally, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/streamlit-strategy-template.git
-cd streamlit-strategy-template
+git clone https://github.com/chou1110/Project_Ringo.git
+cd /Project_Ringo
 ```
 
 ### 2️⃣ Install Dependencies
