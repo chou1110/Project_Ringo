@@ -24,7 +24,7 @@ This project provides a **Streamlit-based template** for evaluating strategies t
 
 ## Installation
 
-To set up and run the project locally, follow these steps:
+To set up and run the project locally, follow these steps: 
 
 ### 1️⃣ Clone the Repository
 
